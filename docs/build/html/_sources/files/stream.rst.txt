@@ -25,4 +25,4 @@ Stream
 **Learning comes from doing**
 """""""""""""""""""""""""""""
 * "*Learning comes from doing, not reading, listening or watching.*" -- Govind
-* Universe rewards application of knowledge, not the storage thereof. 
+* "*Universe rewards application of knowledge, not the storage thereof.*" -- ntr0pie 
