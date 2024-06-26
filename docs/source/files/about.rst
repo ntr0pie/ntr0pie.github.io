@@ -11,6 +11,6 @@ About me
 
 | I'm currently a graduate student at Carnegie Mellon, majoring in Electrical and Computer Engineering. I’m primarily interested in μArch and digital design, with a secondary focus in VLSI design.
 
-| I spend many hours each week trying to understand computers so I can get them to understand me better. When I’m not working with computers, it’s usually: books, video games, running or meditation
+| I spend many hours each week trying to understand computers so I can get them to understand me better. When I’m not working with computers, it’s usually: books, video games, guitar, running or meditation
 
 | I'm currently reading Mahagatha by Satyarth Nayak and playing Uncharted 4: A Thief's End

@@ -12,6 +12,7 @@ Shreesh's Webpage
    Stream <files/stream>
    Weekends <files/weekends>
    Timeline <files/timeline>
+   Miscellany <files/miscellany>
 
 Contact 
 -------
@@ -20,4 +21,4 @@ Contact
 | + **LinkedIn**: `linkedin.com/in/xshreesh <https://www.linkedin.com/in/xshreesh/>`_
 | + **GitHub**: `github.com/ntr0pie <https://www.github.com/ntr0pie>`_
 
-.. Inspired by bojle, gokulp01, squadrick
+.. Inspired by bojle, gokulp01, squadrick, yacineMTB
