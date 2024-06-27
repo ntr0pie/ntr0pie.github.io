@@ -33,6 +33,7 @@ Stream
 """""""""
 
 .. image:: https://farm4.staticflickr.com/3197/2372205766_54f776d797_z.jpg
+
 | http://www.catb.org/jargon/html/M/magic.html
 
 #. (adj.) As yet unexplained, or too complicated to explain; compare automagically and (Arthur C.) Clarke's Third Law: “Any sufficiently advanced technology is indistinguishable from magic.” “TTY echoing is controlled by a large number of magic bits.” “This routine magically computes the parity of an 8-bit byte in three instructions.”
@@ -55,4 +56,5 @@ Stream
 ----
 
 | “*Learn the rules like a pro, so you can break them like an artist.*” -- Pablo Picasso
+
 
