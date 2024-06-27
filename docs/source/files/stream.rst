@@ -41,4 +41,7 @@ Stream
 
 #. (n.) The ultimate goal of all engineering & development, elegance in the extreme; from the first corollary to Clarke's Third Law: “Any technology distinguishable from magic is insufficiently advanced”.
 
+----
+
+| "*If it happened before you were born, get over it.*" -- Naval
 
