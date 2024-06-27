@@ -52,3 +52,7 @@ Stream
 
 | "*Everything in moderation, including moderation.*" -- Oscar Wilde
 
+----
+
+| “*Learn the rules like a pro, so you can break them like an artist.*” -- Pablo Picasso
+
