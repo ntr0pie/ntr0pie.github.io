@@ -25,7 +25,7 @@ Stream
 **Learning comes from doing**
 """""""""""""""""""""""""""""
 * "*Learning comes from doing, not reading, listening or watching.*" -- Govind
-* "*Universe rewards application of knowledge, not the storage thereof.*" -- ntr0pie
+* Universe rewards application of knowledge, not the storage thereof.
 
 ----
 
@@ -56,5 +56,15 @@ Stream
 ----
 
 | “*Learn the rules like a pro, so you can break them like an artist.*” -- Pablo Picasso
+
+----
+
+| Everything is a problem, and that's not a problem
+
+---- 
+
+| I think there is a certain beauty in how we spend hours, days, and weeks understanding computers just so we can make them understand us better.
+
+.. image:: https://m.media-amazon.com/images/M/MV5BMzMzOTY5MjE0Nl5BMl5BanBnXkFtZTgwMjAxNjM3MDE@._V1_.jpg
 
 
