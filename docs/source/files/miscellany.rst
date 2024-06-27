@@ -1,9 +1,11 @@
 Miscellany
 ==========
 
-.. figure:: https://www.chelseaphysicgarden.co.uk/wp-content/uploads/2021/03/253_Paeonia-cambessedesii-scaled-uai-2560x1440.jpg
+.. figure:: ./media/florilegium.jpg
   :width: 700
-  :alt: Paeonia cambessedesii
+  :alt: Florilegium
+
+  Florilegium
 
 Papers
 ------
