@@ -1,0 +1,25 @@
+Sequential Circuits
+"""""""""""""""""""
+
+Sequential circuits are digital circuits whose outputs depend not only on their current inputs, but also on the history of inputs - in other words, on their previous states. This gives them a form of "memory."
+
+
+Questions
+"""""""""
+
+1. **How exactly is information stored and retained in a latch?**
+Information is stored in an initially inactive ("dead" or "cold") latch when:
+        a. A suitable combination of signals is applied to the input terminals of the latch.
+        b. The latch's internal structure, composed of logic gates (typically NAND or NOR gates), processes these inputs.
+        c. The circuit responds by producing outputs at its terminals that reflect the value intended to be stored.        
+Information is retained in a latch through the following mechanism:
+        a. The latch utilizes a cross-coupled structure in its design.
+        b. This cross-coupled structure allows the output terminals to continuously reinforce the required input values.
+        c. The continuous reinforcement maintains the current output value, effectively "remembering" the stored information.
+        d. This feedback loop enables the latch to retain its state even when the original input signals are removed.
+
+
+   * How does a flip flop store and retain information? 
+
+* How does a flip flop store information? It retains the value between two sampling intervals 
+* How does a latch store information? Similar to a flip flop a latch retains its value until a high enable signal makes the latch transparent again to store the current value supplied at its input terminal 
