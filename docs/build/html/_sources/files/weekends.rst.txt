@@ -6,3 +6,9 @@ Weekends
   :alt: Whiplash
 
   "*Were you rushing or were you dragging?*" -- Fletcher
+
+.. toctree::
+   :maxdepth: 1
+
+   Memory in latches and flip flops <weekends/memory>
+

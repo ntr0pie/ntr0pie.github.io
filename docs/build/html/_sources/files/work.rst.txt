@@ -6,3 +6,4 @@ Work
   :alt: Charles Babbage's Difference Engine
 
   "*Ars longa, vita brevis*" -- Hippocrates
+
