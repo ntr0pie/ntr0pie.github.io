@@ -17,7 +17,7 @@ How is data stored and retained in a latch?
 * An enable signal is often added to control *when* the latch can change its state. 
         #. When the enable signal is active the latch is said to be *transparent* and is sensitive to input signals.
         #. When the enable signal is inactive the latch is said to be *opaque* and is insensitive to input signals. 
-        #. This prevents unwanted state changes and enable finer control over the memory element.
+        #. This prevents unwanted state changes and enables finer control over the memory element.
         #. The enable signal also results in the inherent level sensitive nature of latches. 
 
 * https://www.falstad.com/circuit/e-nandff.html
@@ -39,7 +39,6 @@ How is data stored and retained in a flip-flop?
 
 Why are flip-flops edge sensitive unlike latches? 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 - A master-slave D flip-flop consists of two D latches connected in series, with an inverter between their clock inputs. This configuration is key to understanding its positive edge sensitivity.
 
 .. image:: https://static.righto.com/images/8086-flipflop/d-flip-flop-schematic.png
@@ -78,3 +77,4 @@ Why are flip-flops edge sensitive unlike latches?
 ----
 
 More: `How flip-flops are implemented in the Intel 8086 processor <https://www.righto.com/2023/09/8086-flip-flops.html>`_
+
