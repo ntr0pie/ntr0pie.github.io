@@ -10,5 +10,5 @@ Weekends
 .. toctree::
    :maxdepth: 1
 
-   Memory in latches and flip flops <weekends/memory>
+   Memory in latches and flip-flops <weekends/memory>
 
