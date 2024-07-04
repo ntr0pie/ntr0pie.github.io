@@ -6,10 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Entropy'
 copyright = '2024, Shreesh Tripathi'
 author = 'Shreesh Tripathi'
-release = '0'
+html_title = 'Entropy'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
