@@ -17,7 +17,7 @@ Shreesh's Webpage
 Contact 
 -------
 
-| + **Email**: xshreesh [at] google [dot] com
+| + **Email**: xshreesh [at] gmail [dot] com
 | + **LinkedIn**: `linkedin.com/in/xshreesh <https://www.linkedin.com/in/xshreesh/>`_
 | + **GitHub**: `github.com/ntr0pie <https://www.github.com/ntr0pie>`_
 
