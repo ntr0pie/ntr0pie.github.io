@@ -89,14 +89,23 @@ Stream
 
 ----
 
+| "*All you needed was a light, a cup of tea, and your stereo.*" -- Steve Jobs
+
 .. image:: https://api.time.com/wp-content/uploads/2011/10/111017130018-bw1.jpg?quality=75&w=1440
 
-| "*All you needed was a light, a cup of tea, and your stereo.*" -- Steve Jobs
 
 ----
 
+| "*Life can be much broader, once you discover one simple fact, and that is that everything around you that you call life was made up by people that were no smarter than you. And you can change it, you can influence it, you can build your own things that other people can use.*" -- Steve Jobs
+
 .. image:: https://api.time.com/wp-content/uploads/2011/10/1110171300251.jpg?quality=75&w=1440
 
-| "*Life can be much broader, once you discover one simple fact, and that is that everything around you that you call life was made up by people that were no smarter than you. And you can change it, you can influence it, you can build your own things that other people can use.*" -- Steve Jobs
+----
+
+| "*Real science can be far stranger than science fiction, and much more satisfying.*" -- Stephen Hawking
+|
+| Harrier II onboard the USS Peleliu docked in Hong Kong, 2014.
+
+.. image:: https://preview.redd.it/iycjyb8oued81.jpg?auto=webp&s=291602a160c6a1b37243f07a67a0fe6a39d8da46
 
 
