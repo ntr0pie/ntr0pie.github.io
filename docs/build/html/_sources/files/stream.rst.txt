@@ -103,9 +103,8 @@ Stream
 ----
 
 | "*Real science can be far stranger than science fiction, and much more satisfying.*" -- Stephen Hawking
-|
-| Harrier II onboard the USS Peleliu docked in Hong Kong, 2014.
 
 .. image:: https://preview.redd.it/iycjyb8oued81.jpg?auto=webp&s=291602a160c6a1b37243f07a67a0fe6a39d8da46
 
+| Harrier II onboard the USS Peleliu docked in Hong Kong, 2014.
 
