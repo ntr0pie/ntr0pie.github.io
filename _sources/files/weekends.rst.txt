@@ -1,6 +1,8 @@
 Weekends
 ========
 
+are made for exploring...
+
 .. figure:: https://brettmilam.com/wp-content/uploads/2015/01/whiplash1.jpg
   :width: 700
   :alt: Whiplash
@@ -9,6 +11,7 @@ Weekends
 
 .. toctree::
    :maxdepth: 1
-
+   
+   Bookshelf <weekends/bookshelf>
    Memory in latches and flip-flops <weekends/memory>
 

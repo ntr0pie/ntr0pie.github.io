@@ -1,18 +1,17 @@
-
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html lang="en" data-content_root="../../">
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
     <title>Memory in latches and flip-flops &#8212; Entropy</title>
-    <link rel="stylesheet" href="../../_static/alabaster.css" type="text/css" />
-    <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css" />
-    <script id="documentation_options" data-url_root="../../" src="../../_static/documentation_options.js"></script>
-    <script src="../../_static/jquery.js"></script>
-    <script src="../../_static/underscore.js"></script>
-    <script src="../../_static/doctools.js"></script>
-    <script src="../../_static/language_data.js"></script>
+    <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=d1102ebc" />
+    <link rel="stylesheet" type="text/css" href="../../_static/alabaster.css?v=12dfc556" />
+    <link rel="stylesheet" type="text/css" href="../../_static/css/custom.css?v=294973da" />
+    <script src="../../_static/documentation_options.js?v=5929fcd5"></script>
+    <script src="../../_static/doctools.js?v=9a2dae69"></script>
+    <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
     <link rel="next" title="Timeline" href="../timeline.html" />
@@ -20,8 +19,9 @@
    
   <link rel="stylesheet" href="../../_static/custom.css" type="text/css" />
   
+
   
-  <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9" />
+  
 
   </head><body>
   
@@ -33,10 +33,10 @@
 
           <div class="body" role="main">
             
-  <div class="section" id="memory-in-latches-and-flip-flops">
-<h1>Memory in latches and flip-flops<a class="headerlink" href="#memory-in-latches-and-flip-flops" title="Permalink to this headline">¶</a></h1>
-<div class="section" id="how-is-data-stored-and-retained-in-a-latch">
-<h2>How is data stored and retained in a latch?<a class="headerlink" href="#how-is-data-stored-and-retained-in-a-latch" title="Permalink to this headline">¶</a></h2>
+  <section id="memory-in-latches-and-flip-flops">
+<h1>Memory in latches and flip-flops<a class="headerlink" href="#memory-in-latches-and-flip-flops" title="Link to this heading">¶</a></h1>
+<section id="how-is-data-stored-and-retained-in-a-latch">
+<h2>How is data stored and retained in a latch?<a class="headerlink" href="#how-is-data-stored-and-retained-in-a-latch" title="Link to this heading">¶</a></h2>
 <ul class="simple">
 <li><dl class="simple">
 <dt>Data is stored in an initially inactive (“dead” or “cold”) latch when:</dt><dd><ol class="arabic simple">
@@ -68,10 +68,10 @@
 </li>
 <li><p><a class="reference external" href="https://www.falstad.com/circuit/e-nandff.html">https://www.falstad.com/circuit/e-nandff.html</a></p></li>
 </ul>
-</div>
+</section>
 <hr class="docutils" />
-<div class="section" id="how-is-data-stored-and-retained-in-a-flip-flop">
-<h2>How is data stored and retained in a flip-flop?<a class="headerlink" href="#how-is-data-stored-and-retained-in-a-flip-flop" title="Permalink to this headline">¶</a></h2>
+<section id="how-is-data-stored-and-retained-in-a-flip-flop">
+<h2>How is data stored and retained in a flip-flop?<a class="headerlink" href="#how-is-data-stored-and-retained-in-a-flip-flop" title="Link to this heading">¶</a></h2>
 <ul class="simple">
 <li><p>Unlike latches, flip-flops process the input signals at the edge of the clock pulse (edge sensitive).</p></li>
 <li><p>The data to be stored reflects at the output terminals after sometime due to the propagation delay of the underlying gates.</p></li>
@@ -81,10 +81,10 @@
 <li><p><a class="reference external" href="https://www.falstad.com/circuit/e-clockedsrff.html">https://www.falstad.com/circuit/e-clockedsrff.html</a></p></li>
 </ul>
 <img alt="https://static.righto.com/images/8086-flipflop/enable-flip-flop-diagram.png" src="https://static.righto.com/images/8086-flipflop/enable-flip-flop-diagram.png" />
-</div>
+</section>
 <hr class="docutils" />
-<div class="section" id="why-are-flip-flops-edge-sensitive-unlike-latches">
-<h2>Why are flip-flops edge sensitive unlike latches?<a class="headerlink" href="#why-are-flip-flops-edge-sensitive-unlike-latches" title="Permalink to this headline">¶</a></h2>
+<section id="why-are-flip-flops-edge-sensitive-unlike-latches">
+<h2>Why are flip-flops edge sensitive unlike latches?<a class="headerlink" href="#why-are-flip-flops-edge-sensitive-unlike-latches" title="Link to this heading">¶</a></h2>
 <ul class="simple">
 <li><p>A master-slave D flip-flop consists of two D latches connected in series, with an inverter between their clock inputs. This configuration is key to understanding its positive edge sensitivity.</p></li>
 </ul>
@@ -146,8 +146,8 @@
 </ul>
 <hr class="docutils" />
 <p>More: <a class="reference external" href="https://www.righto.com/2023/09/8086-flip-flops.html">How flip-flops are implemented in the Intel 8086 processor</a></p>
-</div>
-</div>
+</section>
+</section>
 
 
           </div>
@@ -186,16 +186,16 @@
   </ul></li>
 </ul>
 </div>
-<div id="searchbox" style="display: none" role="search">
+<search id="searchbox" style="display: none" role="search">
   <h3 id="searchlabel">Quick search</h3>
     <div class="searchformwrapper">
     <form class="search" action="../../search.html" method="get">
-      <input type="text" name="q" aria-labelledby="searchlabel" />
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
       <input type="submit" value="Go" />
     </form>
     </div>
-</div>
-<script>$('#searchbox').show(0);</script>
+</search>
+<script>document.getElementById('searchbox').style.display = "block"</script>
 
 
 
@@ -209,11 +209,11 @@
       <div class="clearer"></div>
     </div>
     <div class="footer">
-      &copy;2024, Shreesh Tripathi.
+      &#169;2024, Shreesh Tripathi.
       
       |
-      Powered by <a href="http://sphinx-doc.org/">Sphinx 2.4.4</a>
-      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
+      Powered by <a href="https://www.sphinx-doc.org/">Sphinx 7.3.7</a>
+      &amp; <a href="https://alabaster.readthedocs.io">Alabaster 0.7.16</a>
       
       |
       <a href="../../_sources/files/weekends/memory.rst.txt"

@@ -10,8 +10,6 @@ Shreesh's Webpage
    Work <files/work>
    About <files/about>
    Stream <files/stream>
-   Weekends <files/weekends>
-   Timeline <files/timeline>
    Miscellany <files/miscellany>
 
 Contact 
