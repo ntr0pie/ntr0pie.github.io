@@ -77,3 +77,26 @@ Stream
 
 | "*The ideal engineer is a composite ... He is not a scientist, he is not a mathematician, he is not a sociologist or a writer; but he may use the knowledge and techniques of any or all of these disciplines in solving engineering problems.*" -- N. W. Dougherty
 
+----
+
+| **[5th July 2024] Computer History Museum, Mountain View, CA**
+| "*The best way to predict the future is to invent it.*" -- Alan Kay
+
+----
+
+| **[5th July 2024] Computer History Museum, Mountain View, CA**
+| "*Necessity is the mother of invention.*" -- Plato
+
+----
+
+.. image:: https://api.time.com/wp-content/uploads/2011/10/111017130018-bw1.jpg?quality=75&w=1440
+
+| "*All you needed was a light, a cup of tea, and your stereo.*" -- Steve Jobs
+
+----
+
+.. image:: https://api.time.com/wp-content/uploads/2011/10/1110171300251.jpg?quality=75&w=1440
+
+| "*Life can be much broader, once you discover one simple fact, and that is that everything around you that you call life was made up by people that were no smarter than you. And you can change it, you can influence it, you can build your own things that other people can use.*" -- Steve Jobs
+
+
