@@ -108,3 +108,11 @@ Stream
 
 | Harrier II onboard the USS Peleliu docked in Hong Kong, 2014.
 
+----
+
+**I hate fights**
+----------------------
+
+"I hate fights. You never do your best work in a fight, because fights are not sufficiently general. Winning is always a function of the situation and the people involved. You don't win fights by thinking of big ideas but by thinking of tricks that work in one particular case. And yet fighting is just as much work as thinking about real problems. Which is particularly painful to someone who cares how their brain is used: your brain goes fast but you get nowhere, like a car spinning its wheels." -- Paul Graham, `Mean People Fail <https://www.paulgraham.com/mean.html>`_
+
+
