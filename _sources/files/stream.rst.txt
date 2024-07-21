@@ -167,10 +167,8 @@ Stream
 
 ----
 
-**@0interestrates**
--------------------
-
-| > be @0interestrates
+**> be @0interestrates**
+------------------------
 | > come from small town in third world country
 | > discover internet; decide you wanna go do cool shit in america
 | > go to college while not bankrupting parents and risking everything they own
