@@ -142,4 +142,3 @@ Stream
 
 `The Bitter Lesson <http://www.incompleteideas.net/IncIdeas/BitterLesson.html>`_ by Rich Sutton
 
-----
