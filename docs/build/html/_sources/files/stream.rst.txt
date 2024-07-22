@@ -127,3 +127,14 @@ Stream
 
 "*My observation is that the doers are the major thinkers. The people that really create the things that change this industry are both the thinker and doer in one person. And if we really go back and we examine, you know, did Leonardo have a guy off to the side that was thinking five years out in the future what he would paint or the technology he would use to paint it? Of course not. Leonardo was the artist, but he also mixed all his own paints. He also was a fairly good chemist. He knew about pigments, knew about human anatomy. And combining all of those skills together, the art and the science, the thinking and the doing, was what resulted in the exceptional result. And there is no difference in our industry. The people that have really made the contributions have been the thinkers and the doers.*" -- Steve Jobs
 
+-----
+
+**Close your heart to it**
+--------------------------
+
+.. image:: https://64.media.tumblr.com/1acefac77e2bf942df74a5f141b802df/2e41feb9e26b6888-54/s540x810/b31740a09b24e6f31c7cb52820ca2e87e84d32b3.gifv
+   :align: center
+   :width: 1000
+
+"*Close your heart to it. On our journey we will be attacked by all manner of creature. Close your heart to their desperation. Close your heart to their suffering. Do not allow yourself to feel for them. They will not feel for you.*" -- Kratos, to Arteus
+
