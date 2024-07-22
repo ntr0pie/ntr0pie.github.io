@@ -89,6 +89,9 @@ Stream
 
 ----
 
+**Less is more**
+----------------
+
 | "*All you needed was a light, a cup of tea, and your stereo.*" -- Steve Jobs
 
 .. image:: https://api.time.com/wp-content/uploads/2011/10/111017130018-bw1.jpg?quality=75&w=1440
@@ -111,8 +114,16 @@ Stream
 ----
 
 **I hate fights**
+-----------------
+
+"*I hate fights. You never do your best work in a fight, because fights are not sufficiently general. Winning is always a function of the situation and the people involved. You don't win fights by thinking of big ideas but by thinking of tricks that work in one particular case. And yet fighting is just as much work as thinking about real problems. Which is particularly painful to someone who cares how their brain is used: your brain goes fast but you get nowhere, like a car spinning its wheels.*" -- Paul Graham, `Mean People Fail <https://www.paulgraham.com/mean.html>`_
+
+----
+
+**Thinkers and Doers**
 ----------------------
 
-"I hate fights. You never do your best work in a fight, because fights are not sufficiently general. Winning is always a function of the situation and the people involved. You don't win fights by thinking of big ideas but by thinking of tricks that work in one particular case. And yet fighting is just as much work as thinking about real problems. Which is particularly painful to someone who cares how their brain is used: your brain goes fast but you get nowhere, like a car spinning its wheels." -- Paul Graham, `Mean People Fail <https://www.paulgraham.com/mean.html>`_
+.. image:: https://i.imgur.com/jnbkSfx.jpeg
 
+"*My observation is that the doers are the major thinkers. The people that really create the things that change this industry are both the thinker and doer in one person. And if we really go back and we examine, you know, did Leonardo have a guy off to the side that was thinking five years out in the future what he would paint or the technology he would use to paint it? Of course not. Leonardo was the artist, but he also mixed all his own paints. He also was a fairly good chemist. He knew about pigments, knew about human anatomy. And combining all of those skills together, the art and the science, the thinking and the doing, was what resulted in the exceptional result. And there is no difference in our industry. The people that have really made the contributions have been the thinkers and the doers.*" -- Steve Jobs
 
