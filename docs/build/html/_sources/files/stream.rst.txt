@@ -138,3 +138,8 @@ Stream
 
 "*Close your heart to it. On our journey we will be attacked by all manner of creature. Close your heart to their desperation. Close your heart to their suffering. Do not allow yourself to feel for them. They will not feel for you.*" -- Kratos, to Arteus
 
+----
+
+`The Bitter Lesson <http://www.incompleteideas.net/IncIdeas/BitterLesson.html>`_ by Rich Sutton
+
+----
