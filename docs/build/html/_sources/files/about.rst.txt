@@ -13,4 +13,5 @@ About me
 
 | I spend many hours each week trying to understand computers so I can get them to understand me better. When I’m not working with computers, it’s usually: books, video games, guitar, running or meditation
 
-| I'm currently reading Mahagatha by Satyarth Nayak and playing Uncharted 4: A Thief's End
+| I'm currently reading Foundation by Isaac Asimov and playing Uncharted 4: A Thief's End and God of War. 
+
