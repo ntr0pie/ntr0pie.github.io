@@ -142,3 +142,17 @@ Stream
 
 `The Bitter Lesson <http://www.incompleteideas.net/IncIdeas/BitterLesson.html>`_ by Rich Sutton
 
+----
+
+**My Learning Philosophy**
+--------------------------
+* You can learn anything. 
+* You can do it way faster than you think. 
+* You learn by doing, not thinking, reading or listening. 
+* Think in top-down systems. Don't lose sight of the goal.  
+* Accept the uncertainty and trust the process. 
+* Velocity matters. Slow is smooth, smooth is fast.
+
+.. image:: https://i.imgur.com/gsyFneK.png
+
+ 
