@@ -157,8 +157,17 @@ Stream
 
 ----
 
+**Functions describe the world** 
+--------------------------------
+.. image:: https://i.imgur.com/RW4VCh9.jpg
+
 `On Mathematical Maturity -- Thomas Garrity <https://youtube.com/clip/UgkxL4tq2mtfVgh_yyHKdDiH4-bgvaDQwWFt?feature=shared>`_
 
-.. image:: https://i.ytimg.com/vi/4HFyWC-YtIk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBil8PvjcbTPZHqej0Hp4CmMbix3w
-	:target: https://youtube.com/clip/UgkxL4tq2mtfVgh_yyHKdDiH4-bgvaDQwWFt?feature=sharedi
+----
+
+**Everything's made up**
+------------------------
+
+“*Welcome to ‘Who’s Line Is It Anyway’ the show where everything’s made up and the points don’t matter. That’s right the points are just like Canada.*” -- Drew Carey
+
 
