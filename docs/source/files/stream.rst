@@ -155,4 +155,10 @@ Stream
 
 .. image:: https://i.imgur.com/gsyFneK.png
 
- 
+----
+
+`On Mathematical Maturity -- Thomas Garrity <https://youtube.com/clip/UgkxL4tq2mtfVgh_yyHKdDiH4-bgvaDQwWFt?feature=shared>`_
+
+.. image:: https://i.ytimg.com/vi/4HFyWC-YtIk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBil8PvjcbTPZHqej0Hp4CmMbix3w
+	:target: https://youtube.com/clip/UgkxL4tq2mtfVgh_yyHKdDiH4-bgvaDQwWFt?feature=sharedi
+
