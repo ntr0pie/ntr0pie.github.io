@@ -8,14 +8,14 @@ Stream
   :width: 700
   :alt: Oppenheimer and Neumann
 
-  "*I am thinking about something much more important than bombs. I am thinking about computers.*" -- John von Neumann
+  "I am thinking about something much more important than bombs. I am thinking about computers." -- John von Neumann
 
 
 ----
 
 **Stand on the shoulder of giants**
 """""""""""""""""""""""""""""""""""
-* "*Stand on the shoulders of giants. Don't dig up their bones.*" -- Sir Isaac Newton
+* "Stand on the shoulders of giants. Don't dig up their bones." -- Sir Isaac Newton
 * Conserving Power - In an evolutionary sense, the ability to work in abstractions allows us to conserve vast amounts of brainpower. Imagine the overwhelm of having to concern yourself with how everything works all of the time, from gravity to your musculoskeletal system, to your heart, the hardware and software stacks of your phone, and so on. We wouldn’t leave our beds. Trust in abstractions and analogies allow us to function. `First principles and asking why <https://www.theengineeringmanager.com/growth/first-principles-and-asking-why/>`_
 * Favour heuristic or analogy based thinking aka pattern matching over first principles thinking when the problem you are solving requires speed over depth. 
 * Respect what came before. `Principal Engineering Community Tenets <https://www.amazon.jobs/en/landing_pages/pe-community-tenets>`_
@@ -24,7 +24,7 @@ Stream
 
 **Learning comes from doing**
 """""""""""""""""""""""""""""
-* "*Learning comes from doing, not reading, listening or watching.*" -- Govind
+* "Learning comes from doing, not reading, listening or watching." -- Govind
 * Universe rewards application of knowledge, not the storage thereof.
 
 ----
@@ -47,11 +47,11 @@ Stream
 
 ----
 
-| "*If it happened before you were born, get over it.*" -- Naval
+| "If it happened before you were born, get over it." -- Naval
 
 ----
 
-| "*Everything in moderation, including moderation.*" -- Oscar Wilde
+| "Everything in moderation, including moderation." -- Oscar Wilde
 
 ----
 
@@ -69,43 +69,43 @@ Stream
 
 ----
 
-| "*There is no secret ingredient. It's just you.*" -- Mr. Ping
+| "There is no secret ingredient. It's just you." -- Mr. Ping
 
 .. image:: https://sethlewis.ie/wp-content/uploads/2021/03/poscroll1-e1616582385237.jpeg
 
 ----
 
-| "*The ideal engineer is a composite ... He is not a scientist, he is not a mathematician, he is not a sociologist or a writer; but he may use the knowledge and techniques of any or all of these disciplines in solving engineering problems.*" -- N. W. Dougherty
+| "The ideal engineer is a composite ... He is not a scientist, he is not a mathematician, he is not a sociologist or a writer; but he may use the knowledge and techniques of any or all of these disciplines in solving engineering problems." -- N. W. Dougherty
 
 ----
 
 | **[5th July 2024] Computer History Museum, Mountain View, CA**
-| "*The best way to predict the future is to invent it.*" -- Alan Kay
+| "The best way to predict the future is to invent it." -- Alan Kay
 
 ----
 
 | **[5th July 2024] Computer History Museum, Mountain View, CA**
-| "*Necessity is the mother of invention.*" -- Plato
+| "Necessity is the mother of invention." -- Plato
 
 ----
 
 **Less is more**
 ----------------
 
-| "*All you needed was a light, a cup of tea, and your stereo.*" -- Steve Jobs
+| "All you needed was a light, a cup of tea, and your stereo." -- Steve Jobs
 
 .. image:: https://api.time.com/wp-content/uploads/2011/10/111017130018-bw1.jpg?quality=75&w=1440
 
 
 ----
 
-| "*Life can be much broader, once you discover one simple fact, and that is that everything around you that you call life was made up by people that were no smarter than you. And you can change it, you can influence it, you can build your own things that other people can use.*" -- Steve Jobs
+| "Life can be much broader, once you discover one simple fact, and that is that everything around you that you call life was made up by people that were no smarter than you. And you can change it, you can influence it, you can build your own things that other people can use." -- Steve Jobs
 
 .. image:: https://api.time.com/wp-content/uploads/2011/10/1110171300251.jpg?quality=75&w=1440
 
 ----
 
-| "*Real science can be far stranger than science fiction, and much more satisfying.*" -- Stephen Hawking
+| "Real science can be far stranger than science fiction, and much more satisfying." -- Stephen Hawking
 
 .. image:: https://preview.redd.it/iycjyb8oued81.jpg?auto=webp&s=291602a160c6a1b37243f07a67a0fe6a39d8da46
 
@@ -116,7 +116,7 @@ Stream
 **I hate fights**
 -----------------
 
-"*I hate fights. You never do your best work in a fight, because fights are not sufficiently general. Winning is always a function of the situation and the people involved. You don't win fights by thinking of big ideas but by thinking of tricks that work in one particular case. And yet fighting is just as much work as thinking about real problems. Which is particularly painful to someone who cares how their brain is used: your brain goes fast but you get nowhere, like a car spinning its wheels.*" -- Paul Graham, `Mean People Fail <https://www.paulgraham.com/mean.html>`_
+"I hate fights. You never do your best work in a fight, because fights are not sufficiently general. Winning is always a function of the situation and the people involved. You don't win fights by thinking of big ideas but by thinking of tricks that work in one particular case. And yet fighting is just as much work as thinking about real problems. Which is particularly painful to someone who cares how their brain is used: your brain goes fast but you get nowhere, like a car spinning its wheels." -- Paul Graham, `Mean People Fail <https://www.paulgraham.com/mean.html>`_
 
 ----
 
@@ -125,7 +125,7 @@ Stream
 
 .. image:: https://i.imgur.com/jnbkSfx.jpeg
 
-"*My observation is that the doers are the major thinkers. The people that really create the things that change this industry are both the thinker and doer in one person. And if we really go back and we examine, you know, did Leonardo have a guy off to the side that was thinking five years out in the future what he would paint or the technology he would use to paint it? Of course not. Leonardo was the artist, but he also mixed all his own paints. He also was a fairly good chemist. He knew about pigments, knew about human anatomy. And combining all of those skills together, the art and the science, the thinking and the doing, was what resulted in the exceptional result. And there is no difference in our industry. The people that have really made the contributions have been the thinkers and the doers.*" -- Steve Jobs
+"My observation is that the doers are the major thinkers. The people that really create the things that change this industry are both the thinker and doer in one person. And if we really go back and we examine, you know, did Leonardo have a guy off to the side that was thinking five years out in the future what he would paint or the technology he would use to paint it? Of course not. Leonardo was the artist, but he also mixed all his own paints. He also was a fairly good chemist. He knew about pigments, knew about human anatomy. And combining all of those skills together, the art and the science, the thinking and the doing, was what resulted in the exceptional result. And there is no difference in our industry. The people that have really made the contributions have been the thinkers and the doers." -- Steve Jobs
 
 -----
 
@@ -136,7 +136,7 @@ Stream
    :align: center
    :width: 1000
 
-"*Close your heart to it. On our journey we will be attacked by all manner of creature. Close your heart to their desperation. Close your heart to their suffering. Do not allow yourself to feel for them. They will not feel for you.*" -- Kratos, to Arteus
+"Close your heart to it. On our journey we will be attacked by all manner of creature. Close your heart to their desperation. Close your heart to their suffering. Do not allow yourself to feel for them. They will not feel for you." -- Kratos, to Arteus
 
 ----
 
@@ -168,6 +168,18 @@ Stream
 **Everything's made up**
 ------------------------
 
-“*Welcome to ‘Who’s Line Is It Anyway’ the show where everything’s made up and the points don’t matter. That’s right the points are just like Canada.*” -- Drew Carey
+"Welcome to ‘Who’s Line Is It Anyway’ the show where everything’s made up and the points don’t matter. That’s right the points are just like Canada." -- Drew Carey
 
+----
 
+**Uhhh my macbook can talk now**
+--------------------------------
+
+.. image:: https://i.imgur.com/umevxgs.jpg
+
+----
+
+**Love what you do** 
+--------------------
+
+"You will find the right answer when you love what you are doing. If you are an engineer merely because you must earn a livelihood, or because your father or society expects it of you, that is another form of compulsion; and compulsion in any form creates a contradiction, conflict. Whereas, if you really love to be an engineer, or a scientist or if you can plant a tree, or paint a picture, or write a poem, not to gain recognition but just because you love to do it, then you will find that you never compete with another. I think this is the real key: to love what you do." -- `J Krishnamurti, Chapter 7 <https://www.jkrishnamurti.org/content/chapter-7>`_
