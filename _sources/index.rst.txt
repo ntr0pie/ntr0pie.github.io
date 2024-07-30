@@ -7,10 +7,10 @@ Shreesh's Webpage
 .. toctree::
    :maxdepth: 1   
 
-   Work <files/work>
-   About <files/about>
-   Stream <files/stream>
-   Miscellany <files/miscellany>
+   Work </work>
+   About </about>
+   Stream </stream>
+   Miscellany </miscellany>
 
 Contact 
 -------
