@@ -183,3 +183,12 @@ Stream
 --------------------
 
 "You will find the right answer when you love what you are doing. If you are an engineer merely because you must earn a livelihood, or because your father or society expects it of you, that is another form of compulsion; and compulsion in any form creates a contradiction, conflict. Whereas, if you really love to be an engineer, or a scientist or if you can plant a tree, or paint a picture, or write a poem, not to gain recognition but just because you love to do it, then you will find that you never compete with another. I think this is the real key: to love what you do." -- `J Krishnamurti, Chapter 7 <https://www.jkrishnamurti.org/content/chapter-7>`_
+
+----
+
+"Say it with me now. Experts are fake, smart generalists rule the world, everything is designed by people no smarter than you, courage is in shorter supply than genius" -- tszzl
+
+----
+
+What would you do if you had infinite courage? 
+
