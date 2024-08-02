@@ -192,3 +192,9 @@ Stream
 
 What would you do if you had infinite courage? 
 
+----
+
+**Keep it simple**
+------------------
+
+..image:: https://s.yimg.com/ny/api/res/1.2/bFxxsxCtA97wrurlBgBHmw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xMzU4O2NmPXdlYnA-/https://s.yimg.com/os/creatr-uploaded-images/2024-08/7307e940-4fe8-11ef-a54b-c7e1c151e5fc
