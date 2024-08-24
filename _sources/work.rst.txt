@@ -27,8 +27,8 @@ My ask
 * If your team is hiring interns and you think I'd be a good fit, I'd love to chat. 
 * Please write to me at: **xshreesh [at] gmail [dot] com** 
 * You can learn more about me here - 
-    * Resume: `attachment <https://wwww.linktoresume.com>`_
-    * Webpage: `shreesh.xyz <https://www.shreesh.xyz>`_
+    * Resume: `attachment <https://docs.google.com/document/d/1_UVLcEelcUmzUw5nN6oF0RUB0qT6GCXzVX7_mzT34Bg/edit>`_ (request access)
+    * Webpage: `ntr0pie.github.io <https://www.ntr0pie.github.io>`_
     * GitHub: `github.com/ntr0pie/ <https://www.github.com/ntr0pie>`_
     * LinkedIn: `linkedin.com/in/xshreesh/ <https://www.linkedin.com/in/xshreesh>`_
 
