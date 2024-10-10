@@ -199,6 +199,8 @@ What would you do if you had infinite courage?
 
 .. image:: https://i.imgur.com/nvUEKky.png 
 
+----
+
 **Rickover**
 ------------
 
