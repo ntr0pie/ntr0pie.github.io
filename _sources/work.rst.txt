@@ -25,7 +25,7 @@ My ask
 """"""
 * I am interested in working with **design, verification and test** engineers during **summer '25**. 
 * If your team is hiring interns and you think I'd be a good fit, I'd love to chat. 
-* Please write to me at: **xshreesh [at] gmail [dot] com** 
+* Please write to me at: **shreesh [at] cmu [dot] edu** 
 * You can learn more about me here - 
     * Resume: `attachment <https://docs.google.com/document/d/1_UVLcEelcUmzUw5nN6oF0RUB0qT6GCXzVX7_mzT34Bg/edit>`_ (request access)
     * Webpage: `ntr0pie.github.io <https://www.ntr0pie.github.io>`_
