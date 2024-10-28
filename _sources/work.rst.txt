@@ -33,5 +33,3 @@ My ask
     * LinkedIn: `linkedin.com/in/xshreesh/ <https://www.linkedin.com/in/xshreesh>`_
 
 
-
-
