@@ -23,7 +23,7 @@ Why me?
 
 My ask
 """"""
-* I am interested in working with **design, verification and test** engineers during **summer '25**. 
+* I am interested in working with **physical and/or digital design, verification/test** engineers during **summer '25**. 
 * If your team is hiring interns and you think I'd be a good fit, I'd love to chat. 
 * Please write to me at: **shreesh [at] cmu [dot] edu** 
 * You can learn more about me here - 
