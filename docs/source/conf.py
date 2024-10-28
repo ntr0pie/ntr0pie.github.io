@@ -8,7 +8,7 @@
 
 copyright = '2024, Shreesh Tripathi'
 author = 'Shreesh Tripathi'
-html_title = 'Entropy'
+html_title = 'Entropy' 
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
