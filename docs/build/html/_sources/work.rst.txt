@@ -18,7 +18,7 @@ Why me?
 * **I know what it takes.** Technology alone isn't enough to keep the lights on. I understand the business and social incentives that influence engineering decisions. I recognize that creating successful products requires balancing technical innovation with market demands and economic realities. This perspective helps me keep sight of the big picture —— the future we're working towards.
  
 
-* **My toolbox and domain knowledge:** C, C++, Python, SystemVerilog, Computer Architecture, Digital Design and Verification 
+* **My toolbox and domain knowledge:** C, C++, Python, Tcl, SystemVerilog, Physical Design, Computer Architecture, Digital Design, Design Verification 
 
 
 My ask
