@@ -213,3 +213,8 @@ Man has a large capacity for effort. In fact it is so much greater than we think
 
 Everything is made up. There are no prequisites. You can just do things. Every second counts. Very little matters. 
 
+**Do to learn**
+---------------
+
+Learning comes from doing, not reading or thinking.
+
