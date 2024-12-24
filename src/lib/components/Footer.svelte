@@ -18,7 +18,7 @@
   <div class="row">
     <span>LinkedIn</span>
     <hr />
-    <a class="link" href="linkedin.com/in/xshreesh">xshreesh</a>
+    <a class="link" href="https://linkedin.com/in/xshreesh">xshreesh</a>
   </div>
 </footer>
 
