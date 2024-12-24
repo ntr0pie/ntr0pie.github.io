@@ -4,165 +4,110 @@
   import Seo from "$lib/components/Seo.svelte";
 
   const featuredProjects = [
-    {
-      name: "sshx",
-      href: "/projects#sshx",
-      desc: "secure web-based, collaborative terminal",
-    },
-    {
-      name: "Bore",
-      href: "/projects#bore",
-      desc: "bypass your NAT in just 400 lines of code",
-      aside: "8500+ stars on GitHub",
-    },
-    {
-      name: "Percival",
-      href: "/projects#percival",
-      desc: "reactive notebooks for exploratory data analysis",
-    },
-    {
-      name: "Rustpad",
-      href: "/projects#rustpad",
-      desc: "self-hosted collaborative text editor",
-      aside: "2M+ downloads",
-    },
-    {
-      name: "Crepe",
-      href: "/projects#crepe",
-      desc: "compiled Datalog language in Rust",
-      aside: "used by distributed databases & security systems",
-    },
-    {
-      name: "FastSeg",
-      href: "/projects#fastseg",
-      desc: "real-time semantic segmentation for self-driving cars",
-    },
-    {
-      name: "Set with Friends",
-      href: "/projects#setwithfriends",
-      desc: "online multiplayer card game",
-      aside: "30M+ page views, 900K+ users",
-    },
+    // {
+    //   name: "Bore",
+    //   href: "/work#bore",
+    //   desc: "bypass your NAT in just 400 lines of code",
+    //   aside: "8500+ stars on GitHub",
+    // },
   ];
+
+  const projectCount = featuredProjects.length;
 </script>
 
 <Seo
-  title="Eric Zhang"
-  description="Software engineer, researcher, and designer. Making meaningful systems and interfaces for people."
+  title="Shreesh Tripathi"
+  description="Hardware engineer, researcher, and human."
 />
 
 <p
   class="layout-md text-black text-xl leading-tight font-light mb-16"
   id="eric-is"
 >
-  <span class="g">is a</span> software engineer<span class="g">,</span><br />
+  <span class="g">is a</span> hardware engineer<span class="g">,</span><br />
   researcher<span class="g">, and</span><br />
-  designer<span class="g">.</span>
+  human<span class="g">.</span>
 </p>
 
 <div class="layout-md text-lg space-y-14">
-  <div class="space-y-5">
-    <p>
-      I currently work at <a class="link" href="https://modal.com">Modal</a>, a
-      new cloud computing platform.
-    </p>
+  <div class="flex space-x-5 items-center">
+    <div class="w-1/3">
+      <!-- <p>This is what I look like:</p> -->
+      <img
+        alt="Photograph of Shreesh Tripathi"
+        src="/assets/images/profile.png"
+        class="scale-105"
+      />
+    </div>
+    <div class="w-2/3 space-y-5">
+      <p />
+      Hi, I’m Shreesh, and I love computers.
 
-    <p>
-      I hope to develop better <em>interactive software</em> for people to cultivate
-      and share ideas, and to meaningfully express what brings them joy.
-    </p>
+      <p>
+        I’m primarily interested in computer architecture and digital design,
+        but I also make time to study and appreciate physical design, machine
+        learning, physics and technology businesses.
+      </p>
 
-    <p>
-      Towards that goal, I am a generalist and care deeply about <em>systems</em
-      >, which form the fundamental building blocks of our applications; and
-      <em>interaction design</em>, how we use and live with computers that are
-      all around us.
-    </p>
+      <p>
+        But when I’m not working with computers, I read anything and everything
+        — from the back of a shampoo bottle to mushy memoirs. I also love
+        playing the guitar, playing video games, running and sleeping.
+      </p>
+    </div>
   </div>
 
-  <div class="leading-snug space-y-4">
-    <p class="pb-2">Notable open-source work:</p>
+  <!-- projects hidden -->
+  {#if projectCount > 0}
+    <div class="leading-snug space-y-4">
+      <p class="pb-2">My work:</p>
 
-    {#each featuredProjects as project}
-      <a class="project-pair" href={project.href}>
-        <div class="text-black font-medium">
-          {project.name}
-          <ArrowUpRight size={18} class="inline text-neutral-400" />
-        </div>
-        <div>
-          <p>{project.desc}</p>
-          {#if project.aside}
-            <aside>{project.aside}</aside>
-          {/if}
-        </div>
-      </a>
-    {/each}
-  </div>
+      {#each featuredProjects as project}
+        <a class="project-pair" href={project.href}>
+          <div class="text-black font-medium">
+            {project.name}
+            <ArrowUpRight size={18} class="inline text-neutral-400" />
+          </div>
+          <div>
+            <p>{project.desc}</p>
+            {#if project.aside}
+              <aside>{project.aside}</aside>
+            {/if}
+          </div>
+        </a>
+      {/each}
+    </div>
+  {/if}
 
   <div class="space-y-5">
     <p>
-      Previously, I worked at <a class="link" href="https://prosper.org"
-        >Prosper Robotics</a
-      >, <a class="link" href="https://convex.dev">Convex</a>,
-      <a class="link" href="https://jumptrading.com">Jump Trading</a>,
-      <a class="link" href="https://scale.com">Scale AI</a>, and
-      <a class="link" href="https://nvidia.com">Nvidia</a>. I’ve also
-      independently published things in the past, like a
-      <a
-        class="link"
-        href="https://pubs.aip.org/books/monograph/129/F-ma-Contests2011-2019-Solutions-Manual"
-        >physics book</a
-      >,
-      <a
-        class="link"
-        href="https://www.combinatorics.org/ojs/index.php/eljc/article/view/v28i1p24/pdf"
-        >combinatorics research</a
-      >, and
-      <a class="link" href="https://github.com/ekzhang/graphics-workshop"
-        >graphics tutorials</a
+      <em><u>Now;</u></em>
+      I am a graduate student at
+      <em><strong class="text-[#C41230]">Carnegie Mellon University</strong></em
+      >, majoring in Electrical and Computer Engineering. I will be interning
+      with the GPU ASIC team at
+      <em><strong class="text-[#76B900]">Nvidia</strong></em> in Santa Clara, California
+      during the summer of 2025 🏄‍♂️
+    </p>
+    <p>
+      <em><u>Then;</u></em> I graduated from
+      <em
+        ><strong class="text-[#f57025]">Manipal Institute of Technology</strong
+        ></em
       >
-      used by thousands. Before that, I won two gold medals at the
-      <a class="link" href="https://stats.ioinformatics.org/people/6717"
-        >International Olympiad in Informatics</a
-      >.
+      with a bachelors in Electronics and Communication Engineering and a minor in
+      Computer Science. I was part of my university’s AI Robotics Team,
+      <a href="https://projectmanas.in/" class="link">Project MANAS</a>, where
+      we worked on a self-driving car and an autonomous robot that won the world
+      grand prize at the
+      <a href="http://www.igvc.org/" class="link"
+        >Intelligent Ground Vehicle Competition</a
+      >
+      in Michigan in 2019. I was also on the founding team of Manipal's
+      <a href="https://ieee-ras-manipal.github.io/Website/" class="link"
+        >IEEE Robotics and Automation Society</a
+      >, and served as the Chairperson for the chapter during 2021 - 2022.
     </p>
-
-    <p>
-      I recently graduated from Harvard, where I was a teaching fellow for
-      upper-level CS classes, wrote my <a
-        class="link"
-        rel="external"
-        href="/assets/pdf/Senior_Thesis.pdf">thesis on Datalog</a
-      >, and studied art, music, and sociology. I am a classical violist and
-      enjoy making music with others (<a
-        class="link"
-        href="https://www.youtube.com/live/_T4IVv0becE">1</a
-      >,
-      <a
-        class="link"
-        href="https://www.thecrimson.com/article/2023/4/18/Natasha-pierre-great-comet-1812-musical-preview/"
-        >2</a
-      >, <a class="link" href="https://youtu.be/4ysgUA-rKUw">3</a>,
-      <a class="link" href="https://youtu.be/rYrVFTzP4sw">4</a>,
-      <a class="link" href="https://www.harvardbachsoc.org/">5</a>,
-      <a
-        class="link"
-        href="https://news.harvard.edu/gazette/story/2019/11/west-side-story-explores-racial-ethnic-political-complications/"
-        >6</a
-      >,
-      <a class="link" href="https://youtu.be/OcucfY2Kzqo">7</a>,
-      <a class="link" href="https://youngarts.org/">8</a>).
-    </p>
-
-    <p>Other interests: math, physics, reading, photography, and biking.</p>
-  </div>
-
-  <div class="space-y-5">
-    <!-- <p>This is what I look like:</p> -->
-    <img
-      alt="Self-portrait photograph of Eric Zhang at his desk"
-      src="/assets/images/profile5.jpg"
-    />
   </div>
 </div>
 

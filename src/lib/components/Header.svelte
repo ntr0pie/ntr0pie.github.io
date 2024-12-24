@@ -2,9 +2,10 @@
   import { page } from "$app/stores";
 
   const links = [
-    { name: "projects", href: "/projects" },
-    { name: "writing", href: "/writing" },
-    { name: "resume", href: "/resume" },
+    // { name: "stream", href: "/steam" }, // TODO
+    // { name: "work", href: "/work" }, // TODO
+    // { name: "resume", href: "/resume" }, // TODO
+    // { name: "writing", href: "/writing" }, // TODO
   ];
 
   let pageTitle: string | null = null;
@@ -24,7 +25,7 @@
   data-sveltekit-preload-code="eager"
 >
   <h1 class="font-bold text-black text-2xl mb-6">
-    <a href="/">Eric Zhang</a>
+    <a href="/">Shreesh Tripathi</a>
     {#if pageTitle}
       <span class="page-title">
         <span class="text-neutral-400">—</span>
