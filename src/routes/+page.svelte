@@ -31,14 +31,17 @@
   class="layout-md text-black text-xl leading-tight font-light mb-16"
   id="eric-is"
 >
-  <span class="g">is a</span> hardware engineer<span class="g">,</span><br />
-  researcher<span class="g">, and</span><br />
-  human<span class="g">.</span>
+  <span class="neutral">is a</span>
+  hardware engineer<span class="neutral">,</span><br />
+  researcher<span class="neutral">, and</span><br />
+  human<span class="neutral">.</span>
 </p>
 
-<div class="layout-md text-lg space-y-14">
-  <div class="flex space-x-5 items-center">
-    <div class="w-1/3">
+<div class="layout-md text-md md:text-lg space-y-14">
+  <div
+    class="flex flex-col md:flex-row items-center space-y-10 space-x-0 md:space-y-0 md:space-x-10"
+  >
+    <div class="w-1/2 md:w-1/3">
       <!-- <p>This is what I look like:</p> -->
       <img
         alt="Photograph of Shreesh Tripathi"
@@ -46,7 +49,7 @@
         class="scale-105"
       />
     </div>
-    <div class="w-2/3 space-y-5">
+    <div class="md:w-2/3 space-y-5">
       <p />
       Hi, I’m Shreesh, and I love computers.
 
@@ -63,7 +66,7 @@
       </p>
     </div>
   </div>
-
+  <hr />
   <!-- projects hidden -->
   {#if projectCount > 0}
     <div class="leading-snug space-y-4">
@@ -86,7 +89,7 @@
     </div>
   {/if}
 
-  <div class="space-y-5">
+  <div class="space-y-5 text-md md:text-lg">
     <p>
       <em><u>Now;</u></em>
       I am a graduate student at
@@ -119,7 +122,7 @@
 </div>
 
 <style lang="postcss">
-  .g {
+  .neutral {
     @apply text-neutral-400;
   }
 
