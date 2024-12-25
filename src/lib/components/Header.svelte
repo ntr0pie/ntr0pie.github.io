@@ -25,7 +25,7 @@
   data-sveltekit-noscroll
   data-sveltekit-preload-code="eager"
 >
-  <h1 class="font-bold text-black text-2xl mb-12 sm:mb-6">
+  <h1 class="font-bold text-black text-xl md:text-2xl mb-12 sm:mb-6">
     <a href="/">Shreesh Tripathi</a>
     {#if pageTitle}
       <span class="page-title">

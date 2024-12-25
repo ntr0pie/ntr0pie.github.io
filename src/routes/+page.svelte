@@ -28,7 +28,7 @@
 />
 
 <p
-  class="layout-md text-black text-xl leading-tight font-light mb-16"
+  class="layout-md text-black text-lg md:text-xl leading-tight font-light mb-16"
   id="eric-is"
 >
   <span class="neutral">is a</span>
