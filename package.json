@@ -12,7 +12,6 @@
     "lint": "prettier --ignore-path .gitignore --check --plugin-search-dir=. .",
     "format": "prettier --ignore-path .gitignore --write --plugin-search-dir=. .",
     "test": "npm run build && npm run preview",
-    "deploy": "npm run build && gh-pages -d build -b prod -m 'gh-ages auto deploy'"
   },
   "dependencies": {
     "@fontsource/newsreader": "^4.5.10",
