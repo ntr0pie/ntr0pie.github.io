@@ -3,7 +3,14 @@
 
   import Seo from "$lib/components/Seo.svelte";
 
-  const featuredProjects = [
+  type Project = {
+    name: string;
+    href: string;
+    desc?: string;
+    aside?: string;
+  };
+
+  const featuredProjects: Project[] = [
     // {
     //   name: "Bore",
     //   href: "/work#bore",

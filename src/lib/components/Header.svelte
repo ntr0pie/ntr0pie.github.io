@@ -1,7 +1,8 @@
 <script lang="ts">
   import { page } from "$app/stores";
 
-  const links = [
+  type Link = { name: string; href: string };
+  const links: Link[] = [
     // { name: "stream", href: "/steam" }, // TODO
     // { name: "work", href: "/work" }, // TODO
     // { name: "resume", href: "/resume" }, // TODO
