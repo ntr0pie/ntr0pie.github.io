@@ -1,4 +1,4 @@
-# ntr0pie.github.io
+# ntr0pie
 
 Source code for my personal website, hosted on GitHub Pages.
 
