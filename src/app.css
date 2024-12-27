@@ -11,8 +11,8 @@
 @layer components {
   .link {
     @apply underline underline-offset-[3px] decoration-neutral-400 dark:decoration-neutral-500;
-    @apply hover:text-black hover:decoration-black transition-colors;
-    @apply dark:hover:text-white dark:hover:decoration-white;
+    @apply hover:text-blue-500 hover:decoration-blue-500 transition-colors;
+    @apply dark:hover:text-blue-300 dark:hover:decoration-blue-300;
   }
 
   .layout-md {
