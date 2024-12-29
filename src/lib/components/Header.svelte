@@ -27,12 +27,12 @@
 >
   <h1 class="font-bold text-black text-2xl mb-12 sm:mb-6">
     <a href="/">Shreesh Tripathi</a>
-    {#if pageTitle}
+    <!-- {#if pageTitle}
       <span class="page-title">
         <span class="text-neutral-400">—</span>
         {pageTitle}
       </span>
-    {/if}
+    {/if} -->
   </h1>
   <nav>
     {#each links as link (link)}

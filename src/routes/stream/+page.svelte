@@ -27,7 +27,7 @@
 />
 
 <section class="layout-md">
-  <p class="text-lg mb-4">
+  <p class="text-sm md:text-lg mb-4">
     <em>
       Things I want to remember ∩ Things I don’t mind the internet knowing
     </em>

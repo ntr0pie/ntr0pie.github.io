@@ -24,7 +24,7 @@
 </script>
 
 <!-- Title -->
-<h3 class="text-black text-xl font-semibold mb-2">
+<h3 class="text-black text-lg md:text-xl font-semibold mb-2">
   {#if data.title}
     <span class="mr-1">{data.title}</span>
   {/if}
