@@ -48,7 +48,7 @@
         class="scale-110"
       />
     </div>
-    <div class="w-1/2 md:w-2/3 space-y-5">
+    <div class="md:w-2/3 space-y-5">
       <p>Hi, I’m Shreesh, and I love computers.</p>
 
       <p>
