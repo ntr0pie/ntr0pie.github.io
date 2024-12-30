@@ -60,7 +60,7 @@
       <p>
         After sunset, I can be found reading anything and everything from the
         back of a shampoo bottle to mushy memoirs. I also love playing the
-        guitar, video games, running and sleeping.
+        guitar, video games, masala dosa, running and sleeping.
       </p>
     </div>
   </div>
@@ -123,18 +123,18 @@
   <div class="space-y-5 text-md md:text-lg">
     <p>
       <em><u>More;</u></em> I was born in Lucknow and brought up around Gurgaon.
-      I spent 4 years in Manipal (half and half on beaches and campus respectively)
-      followed by a year in Bangalore. After this 5 year long sprint of making some
-      of the best memories, mistakes and friends, I decided to take some time off
-      to plan my next sprint. I moved to the US in July '23 and it's been a rollercoaster
-      ever since - but more on that later (:
+      I spent 4 years in Manipal (half and half on beaches and campus) followed by
+      a year in Bangalore. After this 5 year long sprint of making some of the best
+      memories, mistakes and friends, I decided to take some time off to plan my
+      next sprint. I moved to the US in July '23 and it's been a rollercoaster ever
+      since - but more on that later (:
     </p>
 
     <p>
       This is a blog about my big and small wins, and the ride in between. I
-      post about the things I've built and the problems I'm working on. I also
-      maintain a commonplace notebook of sorts, which is a collection of things
-      I want to remember ∩ things I don’t mind the internet knowing.
+      post about the things I’ve built and the problems I’m solving. I also
+      maintain a commonplace notebook, where I collect things I want to remember
+      ∩ things I don’t mind the internet knowing.
     </p>
 
     <p>
